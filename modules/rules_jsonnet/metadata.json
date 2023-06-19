@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/bazelbuild/rules_jsonnet",
+    "maintainers": [],
+    "repository": [
+        "github:bazelbuild/rules_jsonnet"
+    ],
+    "versions": [
+        "0.5.1"
+    ],
+    "yanked_versions": {}
+}
